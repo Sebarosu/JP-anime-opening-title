@@ -1,0 +1,9 @@
+{
+  "id": "jp_title_screen",
+  "name": "Mezase Pokemon Master (Title Screen)",
+  "version": "1.0.0",
+  "entry": "main.lua",
+  "api": 2,
+  "category": "MUSIC",
+  "description": "POKéMON, GETTO DA ZE！"
+}
